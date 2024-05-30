@@ -125,16 +125,31 @@ Figure 3: Install WSL.
 ## **Step 4: Install MobaXterm**
 
 
-MobaXterm is a terminal application for Windows computers. 
+MobaXterm is a terminal application for Windows computers (Fig. 4). 
 
 
-With MobaXterm, you can connect to a remote computer using SSH connection. It has a sftp window that allows for a drag-and-drop option for transferring file between remote and local computers 
+With MobaXterm, you can connect to a remote computer using SSH connection. It has a sftp window on the left-hand-side that allows for a drag-and-drop option for transferring files between remote and local computers 
 
 
 - Visit the MobaXterm (https://mobaxterm.mobatek.net/)
 
 
 - Download the Home Edition version (https://mobaxterm.mobatek.net/download.html) 
+
+
+<br />
+
+
+<p align="center">
+  <img 
+    src="https://github.com/asadprodhan/How_to_set_up_WSL/blob/main/Step_4_MobaXterm.png"
+ align="center" width=70% height=70% >   
+</p>
+<p align = center>
+Figure 4: MobaXterm.
+</p>
+
+<br />
 
 
 <br />
@@ -170,18 +185,6 @@ sudo apt-get install zip
 ```
 
 
-<br />
 
-
-<p align="center">
-  <img 
-    src="https://github.com/asadprodhan/How_to_set_up_WSL/blob/main/Step_4_MobaXterm.png"
- align="center" width=70% height=70% >   
-</p>
-<p align = center>
-Figure 4: MobaXterm.
-</p>
-
-<br />
 
 
