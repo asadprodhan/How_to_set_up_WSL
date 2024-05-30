@@ -19,7 +19,22 @@
 - Type "Windows features" into the search bar located in your compupter taskbar 
 
 
-- Expand the "Turn Windows Features On or Off" box and tick the checkbox for "Windows Subsystem for Linux" 
+- Expand the "Turn Windows Features On or Off" box and tick the checkbox for "Windows Subsystem for Linux" (Fig. 1) 
+
+
+<br />
+
+
+<p align="center">
+  <img 
+    src="https://github.com/asadprodhan/How_to_set_up_WSL/blob/main/Step_1_Activate_WSL.png"
+ align="center" width=70% height=70% >   
+</p>
+<p align = center>
+Figure 1: Activate WSL in your computer.
+</p>
+
+<br />
 
 
 > Ref: https://techcommunity.microsoft.com/t5/windows-11/how-to-install-the-linux-windows-subsystem-in-windows-11/m-p/2701207/page/2
@@ -37,7 +52,22 @@
 > https://apps.microsoft.com/detail/9pnksf5zn4sw?hl=en-us&gl=AU
 
 
-- Download Ubuntu 18.04 LTS
+- Download Ubuntu 18.04 LTS (Fig. 2)
+
+
+<br />
+
+
+<p align="center">
+  <img 
+    src="https://github.com/asadprodhan/How_to_set_up_WSL/blob/main/Step_2_Download_Ubuntu18_for_Windows.png"
+ align="center" width=70% height=70% >   
+</p>
+<p align = center>
+Figure 2: Download Ubuntu 18.04 LTS for Windows.
+</p>
+
+<br />
 
 
 <br />
@@ -66,11 +96,27 @@ Ubuntu only accepts usernames based on the following rules:
 
 Note: Downloading Ubuntu 18.04 LTS for Windows from the Microsoft store, should automatically install WSL. If not, then:
 
-Run the following command in the Ubuntu terminal
+Run the following command in the Ubuntu terminal (Fig. 3)
 
 ```
 wsl --install
 ```
+
+
+<br />
+
+
+<p align="center">
+  <img 
+    src="https://github.com/asadprodhan/How_to_set_up_WSL/blob/main/Step_3_Install_WSL.png"
+ align="center" width=70% height=70% >   
+</p>
+<p align = center>
+Figure 3: Install WSL.
+</p>
+
+<br />
+
 
 
 <br />
@@ -112,7 +158,7 @@ You can install differents pacakges as you go.
 For example:
 
 
-You can install the widely used Linux utility, dos2unix, by running the following command in your   
+You can install the widely used Linux utility, dos2unix, by running the following command in your terminal (Fig. 4)  
 
 ```
 sudo apt-get install dos2unix
@@ -122,4 +168,20 @@ sudo apt-get install dos2unix
 ```
 sudo apt-get install zip
 ```
+
+
+<br />
+
+
+<p align="center">
+  <img 
+    src="https://github.com/asadprodhan/How_to_set_up_WSL/blob/main/Step_4_MobaXterm.png"
+ align="center" width=70% height=70% >   
+</p>
+<p align = center>
+Figure 4: MobaXterm.
+</p>
+
+<br />
+
 
