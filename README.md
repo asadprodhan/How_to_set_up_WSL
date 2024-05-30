@@ -7,6 +7,8 @@
 
 ### **AUTHOR: Dr Asad Prodhan** https://asadprodhan.github.io/
 
+[![License GPL 3.0](https://img.shields.io/badge/License-GPL%203.0-yellow.svg)](https://github.com/asadprodhan/How_to_set_up_WSL#GPL-3.0-1-ov-file)
+
 
 <br />
 
